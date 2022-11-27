@@ -1,0 +1,6 @@
+{
+  "name": "@mr-nuub/template-package",
+  "devDependencies": {
+    "@types/node": "^16"
+  }
+}

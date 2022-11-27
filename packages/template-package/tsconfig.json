@@ -1,0 +1,5 @@
+{
+  /* Update paths after copying to ../packages! */
+  "extends": "../../tsconfig.json",
+  "references": [{ "path": "../template-lib/tsconfig.json" }]
+}

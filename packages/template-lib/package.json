@@ -1,0 +1,8 @@
+{
+  "name": "@mr-nuub/template-lib",
+  "devDependencies": {
+    "@types/jest": "^29",
+    "jest-extended": "^3.2.0",
+    "ts-jest": "^29.0.3"
+  }
+}
